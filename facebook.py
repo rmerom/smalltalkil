@@ -54,7 +54,7 @@ except ImportError:
 
 
 class GraphAPI(object):
-    """A client for the Facebook Graph API.
+    """A client for the Facebook Graph API...
 
     See http://developers.facebook.com/docs/api for complete documentation
     for the API.
